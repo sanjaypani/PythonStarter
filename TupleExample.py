@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 # Tuple Example ()
+# ReadOnly
 
 myvar = ('sanjay', "123.89", "sanjayy100", "111", "222", "333")
 
